@@ -1,0 +1,32 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "cf391631-b9a1-4442-a6e3-63625bd2e910")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "SDA"
+		(shape bidirectional)
+		(at 88.9 55.88 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "89bbe628-edfe-4284-8eb4-6f31dadcfd6d")
+	)
+	(hierarchical_label "SCL"
+		(shape output)
+		(at 88.9 52.07 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f34864b7-f781-487a-b562-afac5a7dc020")
+	)
+)
