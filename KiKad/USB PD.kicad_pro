@@ -397,11 +397,15 @@
     ],
     [
       "a75fe0b9-43fb-49ae-813d-aa5ff6864e1e",
-      "Host Cotroller"
+      "Host Controller"
     ],
     [
       "9d3516b9-7171-486a-960d-98f581771a4c",
-      "3.3V Voltage Regulator"
+      "5V Voltage Regulator"
+    ],
+    [
+      "7ae009c2-d87f-4abf-96d4-546607653eb9",
+      "3.3V Voltage Regulator1"
     ]
   ],
   "text_variables": {}
